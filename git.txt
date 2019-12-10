@@ -1,0 +1,20 @@
+@Basic Commands
+    $ git init                  // initialize local git repository
+    $ git add <file>            // add file(s) to index
+        $ git add *.'ext        // add all files of that ext i.e add *.html
+        $ git add .             // add everything 
+    $ git rm --cached <file>    // remove from stage
+    $ git status                // check status of working tree
+    $ git commit                // commit changes in index
+
+    $ git push                  // push to remote repository i.e. save to github
+    $ git pull                  // pull from ''     ''            pull 4m  ''
+    $ gti clone                 // clone repository into a new directory
+
+
+@Git Bash
+
+    $ touch 'file.ext'   // create files
+    $ git config --global user.name 'sizarcorpse'
+    $ git config --global user.email '74streetmafia@gmail.com'
+
