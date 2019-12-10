@@ -18,3 +18,7 @@
     $ git config --global user.name 'sizarcorpse'
     $ git config --global user.email '74streetmafia@gmail.com'
 
+@commit
+    type 'i' to insert mode
+    press 'Esc' to escape insert mode
+    type ':ws' to exit.
