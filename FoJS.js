@@ -1079,7 +1079,7 @@ console.log(carrot.name)
 
 
 
-//----------GETTERS and SETTER  ---------------
+//----------GETTERS and SETTER  ----------------
 
 
 
