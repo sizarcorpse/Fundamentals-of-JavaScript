@@ -24,7 +24,7 @@
     type ':ws' to exit.
 
     $ git commit -m 'changed <file.ext>'    // skip editing stage. i.e $ git commit -m 'changed FoJS.js'
-
+                 -m 'another changed'
 @Ignore file
     $ touch .gitignore
         > open .gitignore file.
