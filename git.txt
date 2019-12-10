@@ -22,3 +22,11 @@
     type 'i' to insert mode
     press 'Esc' to escape insert mode
     type ':ws' to exit.
+
+    $ git commit -m 'changed <file.ext>'    // skip editing stage. i.e $ git commit -m 'changed FoJS.js'
+
+@Ignore file
+    $ touch .gitignore
+        > open .gitignore file.
+        > named the <filename.ext> want to be ingoned
+        > name the </foldername> want to be ingored
