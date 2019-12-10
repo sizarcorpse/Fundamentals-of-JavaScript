@@ -30,3 +30,9 @@
         > open .gitignore file.
         > named the <filename.ext> want to be ingoned
         > name the </foldername> want to be ingored
+
+@remote
+    $ git remote                        // check remote 
+    $ git remote add origin <link>      // i.e git remote add origin https://github.com/sizarcorpse/Fundamentals-of-JavaScript.git
+    $ git push -u origin master         // added to github
+        > enter username and password
