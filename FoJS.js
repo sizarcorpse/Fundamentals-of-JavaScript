@@ -1095,7 +1095,7 @@ console.log(carrot.name)
 // import * as name from "./filename"; <== import everything
 
 
-//----------Object Literal Extensions --------------
+//----------Object Literal Extensionss --------------
 
 //stage 1:
 
